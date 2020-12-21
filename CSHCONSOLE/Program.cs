@@ -61,6 +61,7 @@ namespace CSHCONSOLE
             //new InsertRecordIntoEmployeesTable().Execute();
             //new ViewAllEmployees().Execute();
             //new UpdateEmployee_ConnectionEnv().Execute();
+            //File modified for testing
             new UpdateEmployee_ConnectionlessEnv().Execute();
             Console.ReadKey();
         }
