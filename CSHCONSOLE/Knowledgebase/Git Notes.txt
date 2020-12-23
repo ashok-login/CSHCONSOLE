@@ -26,3 +26,5 @@ HOW TO CLONE OUR GIT REPOSITORY:
 	>git config user.name "Your name goes here"
 	>git config user.email "your email goes here"
 	>git clone "get the github url"
+
+.NET Core MVC project repository location: https://github.com/ashok-login/CoreMVCLearning.git
